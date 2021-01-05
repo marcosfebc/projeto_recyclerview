@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">RecyclerView</string>
+    <string name="nome_do_filme">Nome do Filme</string>
+    <string name="produtora_do_filme">Produtora do filme</string>
+    <string name="disponibilidade">Disponibilidade:</string>
+    <string name="assistido">Assistido</string>
+    <string name="nota_do_filme">Nota Do Filme</string>
+
+    <string-array name="disponibilidades" tools:ignore="InconsistentArrays">
+        <item>NETFLIX</item>
+        <item>HBO</item>
+        <item>Amazon Prime</item>
+        <item>Telecine</item>
+        <item>Fox</item>
+        <item>Universal</item>
+    </string-array>
+
+</resources>
